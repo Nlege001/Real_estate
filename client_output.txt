@@ -1,0 +1,37 @@
+load territories :
+1
+2
+3
+4
+5
+6
+client output: 
+ client id is:1000 client amount is: 5
+ client id is:1001 client amount is: 10
+ client id is:1002 client amount is: 15
+ client id is:1003 client amount is: 20
+ client id is:1004 client amount is: 0
+ client id is:1004 client amount is: 30
+ client id is:1003 client amount is: 0
+ client id is:1002 client amount is: 40
+ client id is:1001 client amount is: 45
+ client id is:1002 client amount is: 50
+ client id is:1003 client amount is: 55
+ client id is:1004 client amount is: 60
+ client id is:1004 client amount is: 65
+ client id is:1004 client amount is: 70
+ client id is:1004 client amount is: 0
+ client id is:1003 client amount is: 80
+ client id is:1002 client amount is: 0
+ client id is:1002 client amount is: 1000
+ client id is:1002 client amount is: 1100
+ client id is:1002 client amount is: 1110
+ client id is:1003 client amount is: 1200
+ client id is:1003 client amount is: 1230
+ client id is:1003 client amount is: 1234
+ client id is:1003 client amount is: 1235
+ client id is:1003 client amount is: 1236
+ client id is:1003 client amount is: 1237
+ client id is:1003 client amount is: 1238
+ client id is:1002 client amount is: 1239
+ client id is:1002 client amount is: 1240
