@@ -12,6 +12,7 @@
 
       - clone the repo to a specific location on your personal computer
       - go to that directory/folder
-      - type in 'gcc '
+      - type in 'gcc -o project_2 project_2.cpp' and press enter
+      - the run './project_2'
      
      
