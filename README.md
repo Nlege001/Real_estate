@@ -8,4 +8,10 @@
      - The text files are paresed and the parsed data is manupilated 
      - The program generates three new text files which are recipts that indicates money expenses based on each territory, client and sales representative
      
+## How to run the program
+
+      - clone the repo to a specific location on your personal computer
+      - go to that directory/folder
+      - type in 'gcc '
+     
      
